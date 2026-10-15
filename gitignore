@@ -1,0 +1,10 @@
+
+node_modules/
+
+
+git add index.js package.json package-lock.json .gitignore
+git commit -m "API do Abrigo de Pets"
+git branch -M main
+
+git remote add origin https://github.com/fabianamilena92-cmd/abrigo-de-pets..git
+git push -u origin main
